@@ -1,0 +1,59 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    background-color: #EDFAF2;
+    display: grid;
+    place-items: center;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+body form {
+    display: flex;
+    flex-direction: column;
+}
+
+.boxInput {
+    width: 335px;
+    height: 41px;
+    border: none;
+    background-color: #DAE6DE;
+    margin: 5px;
+    color: #5C615E;
+    padding-left: 20px;
+}
+
+.buttonVerde {
+    width: 355px;
+    height: 41px;
+    background-color: #879939;
+    border: none;
+    color: #EDFAF2;
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.admin-checkbox{
+    margin-bottom: 20px;
+    /* margin-top: 5px; */
+}
+
+.login-extras {
+    text-decoration: none;
+    color: #5C615E; 
+    margin-top: 20px;
+    align-self: center;
+}
+
+.main-container img {
+    margin-bottom: 20px;
+}

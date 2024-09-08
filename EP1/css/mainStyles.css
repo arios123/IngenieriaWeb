@@ -1,0 +1,240 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    background-color: #EDFAF2;
+    padding-bottom: 50px;
+}
+
+.mainLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.trabajo {
+    background-color: #DAE6DE;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.trabajo-headers {
+    color: black;
+    font-size: 20px;
+}
+
+.trabajo-clickable {
+    text-decoration: none;
+}
+
+.trabajo-name {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+.trabajo-time {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.trabajo-headers-region {
+    align-self: flex-end;
+    margin-right: 20px;
+    position: absolute;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.trabajo-descripcion {
+    color: #5C615E;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.buttonVerde {
+    /* width: 100px;  */
+    height: 41px;
+    background-color: #879939;
+    border: none;
+    color: #EDFAF2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 50vw;
+    align-self: center;
+}
+
+.boxInput {
+    width: 50vw;
+    height: 41px;
+    border: none;
+    background-color: #DAE6DE;
+    /* margin-left: 200px; */
+    /* margin: 5px; */
+    margin-bottom: 15px;
+    color: #5C615E;
+    padding-left: 20px;
+    align-self: center;
+}
+
+/* .desc-placeholder {
+    position: absolute;
+    left: 20px;
+    top: 0px;
+    background-color: white;
+    padding: 0 20px;
+  }
+  
+  .boxInput-desc:focus ~ .desc-placeholder,
+  .boxInput-desc:valid ~ .desc-placeholder {
+    display: none;
+  } */
+
+  /* .filter {
+    position: relative;
+    width: 50vw;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px;
+    border: 1px solid lightblue;
+  }
+  
+  .placeholder {
+    position: absolute;
+    left: 20px;
+    background-color: red;
+    padding: 0 20px;
+  }
+  
+  .filter:focus ~ .placeholder,
+  .filter:valid ~ .placeholder {
+    display: none;
+  } */
+
+.boxInput-sub {
+    width: 50vw;
+    align-self: center;
+    margin-left: 40px;
+    font-size: 8px;
+    color: #5C615E;
+}
+
+.finishJob-buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.mainProfile-container {
+    /* border: black solid 1px; */
+    width: 50%;
+    margin: 0 auto;
+}
+
+.profile-trabajo-yes {
+    border: 3px solid #879939;
+    margin-bottom: 0.5%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1%;
+}
+
+.profile-trabajo-no {
+    border: 3px solid #E26D53;
+    margin-bottom: 0.5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-icon-big {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 10px;
+    background-color: #879939;
+    color: white;
+    font-size: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-info-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5vw;
+}
+
+.profile-info-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 3vw;
+}
+
+.search-box {
+    background-color: #DAE6DE;
+    border-radius: 50px;
+    border: none;
+    height: 41px;
+    padding-left: 20px;
+}
+
+.profile-icon-small {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 10px;
+    background-color: #879939;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.search-person-info {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.search-trabajo {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-icon-small-msg {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 10px;
+    background-color: #879939;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+
+.msg-prev{
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+    margin-left: 20px;
+    justify-content: center;
+}
