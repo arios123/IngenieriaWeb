@@ -1,0 +1,20 @@
+ion-avatar {
+    --border-radius: 10px;
+    background-color: #879939;
+    color: white;
+}
+
+.avatar-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.msg-name {
+    font-size: 12px;
+}
+
+ion-fab-button {
+    --background: #879939;
+    --color: white;
+  }

@@ -1,0 +1,7 @@
+{
+  "name": "testingTimeX",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

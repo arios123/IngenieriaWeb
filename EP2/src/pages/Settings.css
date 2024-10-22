@@ -1,0 +1,22 @@
+.settings-boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.settings-box-container {
+    display: flex;
+    flex-direction: row;
+    width: 150px;
+    height: 40px;
+    border-radius: 0px;
+    background-color: #E26D53;
+    --background: #E26D53;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+    text-transform: none;
+}

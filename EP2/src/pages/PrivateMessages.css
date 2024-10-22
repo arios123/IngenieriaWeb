@@ -1,0 +1,65 @@
+.txt-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    margin-bottom: 60px;
+}
+
+.reciever-txt {
+    width: max-content;
+    background-color: #DAE6DE;
+    padding: 10px;
+    border-radius: 20px;
+    border-top-left-radius: 0px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.sender-txt {
+    width: max-content;
+    background-color: #879939;
+    padding: 10px;
+    border-radius: 20px;
+    border-top-right-radius: 0px;
+    color: white;
+    align-self: flex-end;
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+
+.footer-container {
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+}
+
+.floating-footer {
+    position: fixed;
+    bottom: 0px;
+    z-index: 100;
+}
+
+ion-input.custom-input {
+    --background: #BDC7C1;
+    --color: #5C615E;
+    --placeholder-color: #5C615E;
+    --placeholder-opacity: 1;
+    --padding-end: 10px;
+    --padding-start: 10px;
+    --border-radius: 20px;
+    font-size: 15px;
+    --highlight-color: transparent;
+}
+
+.custom-toolbar {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+  
+.msg-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* color: black; */
+}

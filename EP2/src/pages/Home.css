@@ -1,0 +1,44 @@
+/* ion-content::part(background) {
+    background: #EDFAF2;
+} */
+/* 
+ion-content::part(scroll) {
+    color: black;
+} */
+
+ion-card {
+    --background: #cdd9d1;
+    --color: #5C615E;
+}
+
+ion-card-title {
+    --color: black;
+}
+
+ion-card-subtitle {
+    --color: black;
+}
+
+ion-toolbar {
+    --background: #EDFAF2;
+     --color: black;
+  
+    /* --border-color: #f24aec;
+    --border-width: 4px 0;
+    --border-style: double;
+  
+    --min-height: 80px;
+    --padding-top: 20px;
+    --padding-bottom: 20px; */
+}
+
+/* ion-title.title-large {
+    color: #c897d8!important;
+    font-size: 30px;
+} */
+
+.testing {
+    --background: #879939; /* Custom background color */
+    --color: white;        /* Custom text color */
+    margin-right: 10px; 
+}

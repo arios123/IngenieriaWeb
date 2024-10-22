@@ -1,0 +1,44 @@
+.admin-close-button {
+    background-color: #E26D53;
+    --color: #EDFAF2;
+    text-transform: none;
+    width: 90%;
+    margin-left: 0px;
+}
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+ion-searchbar.custom-search-bar {
+    --background: #DAE6DE;
+    --color: #5C615E;
+    --border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.person-container {
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.end-part {
+    display: flex;
+    /* align-self: flex-end; */
+    /* text-align: right; */
+    /* text-align: end; */
+}
+
+.msg-name2{
+    font-size: 12px;
+}
