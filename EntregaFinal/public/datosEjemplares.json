@@ -1,0 +1,30 @@
+[
+    {
+        "titulo" : "Pintar",
+        "duracion" : 3,
+        "donde" : "Santiago, CL",
+        "descripcion" : "Se necesita pintor para pintar una pared exterior de 10 metros de largo por 3 de alto. El trabajo incluye preparar la superficie, aplicar imprimación y dos capas de pintura resistente al clima. Se requiere experiencia en pintura exterior y uso de herramientas propias. La pintura será proporcionada.",
+        "id" : 1
+    },
+    {
+        "titulo" : "Limpiar Casa",
+        "duracion" : 1.5,
+        "donde" : "Santiago, CL",
+        "descripcion" : "Se necesita persona para limpiar una casa. Tareas: barrer, trapear, quitar polvo y limpiar baños.",
+        "id" : 2
+    },
+    {
+        "titulo" : "Transporte",
+        "duracion" : 1,
+        "donde" : "Santiago, CL",
+        "descripcion" : "Se necesita transporte del aeropuerto a Los Condes",
+        "id" : 3
+    },
+    {
+        "titulo" : "Llevar Basura",
+        "duracion" : 2,
+        "donde" : "Valparaiso, CL",
+        "descripcion" : "Se necesita sacar basura de la casa. Es despues de un projecto de construcion. Hay madera y trozos de metal.",
+        "id" : 4
+    }
+]

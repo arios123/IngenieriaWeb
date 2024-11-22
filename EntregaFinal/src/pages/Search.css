@@ -1,0 +1,11 @@
+ion-searchbar.custom {
+    --background: #DAE6DE;
+    --color: #5C615E;
+    --border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Test {
+    padding-left: 15px;
+}

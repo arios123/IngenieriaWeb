@@ -1,0 +1,72 @@
+ion-input.custom {
+    --background: #DAE6DE;
+    --color: #5C615E;
+    --placeholder-color: #5C615E;
+    --placeholder-opacity: 1;
+  
+    --padding-bottom: 10px;
+    --padding-end: 10px;
+    --padding-start: 10px;
+    --padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+ion-input.custom2 {
+    --background: #DAE6DE;
+    --color: #5C615E;
+    --placeholder-color: #5C615E;
+    --placeholder-opacity: 1;
+
+    --padding-bottom: 10px;
+    --padding-end: 10px;
+    --padding-start: 10px;
+    --padding-top: 10px;
+
+    margin-bottom: 20px;
+}
+
+ion-input.custom3 {
+    --background: #DAE6DE;
+    --color: #5C615E;
+    --placeholder-color: #5C615E;
+    --placeholder-opacity: 1;
+
+    --padding-bottom: 10px;
+    --padding-end: 10px;
+    --padding-start: 10px;
+    --padding-top: 10px;
+
+    margin-bottom: 20px;
+    width: 35%;
+}
+
+ion-input.custom4 {
+    --background: #DAE6DE;
+    --color: #5C615E;
+    --placeholder-color: #5C615E;
+    --placeholder-opacity: 1;
+
+    --padding-bottom: 10px;
+    --padding-end: 10px;
+    --padding-start: 10px;
+    --padding-top: 10px;
+
+    margin-bottom: 10px;
+    height: 200px;
+}
+
+.createjob2-box-container {
+    height: 40px;
+    color: #EDFAF2;
+    text-transform: none;
+}
+
+.header-container-createjob {
+    display: flex;
+    flex-direction: row;
+}
+
+.back-arrow {
+    --color: black;
+    margin-left: 15px;
+}
